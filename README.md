@@ -6,6 +6,10 @@ A simple web is a sample website that I made to test out my skills on HTML, CSS 
 
 ### Languages Used
 
+- HTML
+- CSS
+- Javascript
+
 ### Color pallette
 
 ### Pictures 
